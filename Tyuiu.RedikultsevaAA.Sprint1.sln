@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D05ECFA6-78C8-437A-9208-40ACD183F96F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.V13", "Tyuiu.RedikultsevaAA.Sprint1.V13\Tyuiu.RedikultsevaAA.Sprint1.V13.csproj", "{C58A5590-900B-4D5C-AEC0-5294F7CAA152}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.Task0.V13", "Tyuiu.RedikultsevaAA.Sprint1.V13\Tyuiu.RedikultsevaAA.Sprint1.Task0.V13.csproj", "{C58A5590-900B-4D5C-AEC0-5294F7CAA152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.V13.Lib", "Tyuiu.RedikultsevaAA.Sprint1.V13.Lib\Tyuiu.RedikultsevaAA.Sprint1.V13.Lib.csproj", "{20C9B951-A6CC-4FCD-B58E-3C3003D84ECA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.Task0.V13.Lib", "Tyuiu.RedikultsevaAA.Sprint1.V13.Lib\Tyuiu.RedikultsevaAA.Sprint1.Task0.V13.Lib.csproj", "{20C9B951-A6CC-4FCD-B58E-3C3003D84ECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.V13.Test", "Tyuiu.RedikultsevaAA.Sprint1.V13.Test\Tyuiu.RedikultsevaAA.Sprint1.V13.Test.csproj", "{5C523AA6-8D7A-482E-99A9-96C892ECFEAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RedikultsevaAA.Sprint1.Task0.V13.Test", "Tyuiu.RedikultsevaAA.Sprint1.V13.Test\Tyuiu.RedikultsevaAA.Sprint1.Task0.V13.Test.csproj", "{5C523AA6-8D7A-482E-99A9-96C892ECFEAF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C16F7F6A-C6C9-4CB6-946F-AB77DE6EF8C0}"
 EndProject
